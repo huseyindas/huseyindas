@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python/Django.
+- 🔭 I’m currently working on Python, Django, Flask.
