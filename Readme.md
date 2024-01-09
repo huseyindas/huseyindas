@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I started my career in backend development and developed B2B, service network and human resources projects using Django Rest Framework. In this process, I had the experience of working with complex ERP systems and integrating various databases and technologies.<br><br>Then I stepped into the field of artificial intelligence and worked on NLP and NLG and managed three different chatbots with Rasa. At the same time, I worked on face and liveness detection and trained models using technologies such as KNN, MTCNN and Caffe. I developed successful projects using models such as YOLOv5 and YOLOv7 for object detection. At the same time, I worked on customer segmentation and product recommendation with the data we obtained from the B2B platform. We published an academic publication as a team on this subject.<br><br>I joined the DevOps team and mastered Kubernetes technology. I created and installed the K8s files required for deployment and followed up with Argocd. I experienced CI/CD phases, managed projects from start to finish using Jenkins and GitHub Actions. I actively worked on CodeBuild, Route53, ECR, EC2, ACM and EKS from AWS technologies.<br>In all these processes, I have mastered basic technologies such as Git, GitHub, Postman, Docker. I have also frequently used Linux/Unix systems in my projects and worked effectively with project management tools such as Jira.</p>
+<p align="left">I started my career in backend development and developed B2B, service network and human resources projects using Django Rest Framework. In this process, I had the experience of working with complex ERP systems and integrating various databases and technologies.<br><br>Then I stepped into the field of artificial intelligence and worked on NLP and NLG and managed three different chatbots with Rasa. At the same time, I worked on face and liveness detection and trained models using technologies such as KNN, MTCNN and Caffe. I developed successful projects using models such as YOLOv5 and YOLOv7 for object detection. At the same time, I worked on customer segmentation and product recommendation with the data we obtained from the B2B platform. We published an academic publication as a team on this subject.<br><br>I joined the DevOps team and mastered Kubernetes technology. I created and installed the K8s files required for deployment and followed up with Argocd. I experienced CI/CD phases, managed projects from start to finish using Jenkins and GitHub Actions. I actively worked on CodeBuild, Route53, ECR, EC2, ACM and EKS from AWS technologies.<br><br>In all these processes, I have mastered basic technologies such as Git, GitHub, Postman, Docker. I have also frequently used Linux/Unix systems in my projects and worked effectively with project management tools such as Jira.</p>
 
 ###
 
@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/huseyindas/huseyindas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/huseyindas/huseyindas/output/snake.svg" alt="Snake animation" />
 
 ###
