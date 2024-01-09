@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/huseyindas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="hsyndass@gmail.com" target="_blank">
+  <a href="mailto:hsyndass@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/14805998/h%c3%bcseyin-da%c5%9f" target="_blank">
