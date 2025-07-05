@@ -26,50 +26,19 @@
 
 ###
 
-<p align="left">Dynamic and versatile software engineer with extensive experience in backend development, data science, and DevOps. Demonstrated ability to design and implement scalable solutions, manage complex deployments, and optimize system performance for large-scale applications. Adept at leading R&D projects, developing innovative AI-driven applications, and implementing advanced data processing models. Strong background in continuous integration and continuous deployment (CI/CD), microservices, and cloud-based architecture. Proficient in a wide array of technologies including Django, PostgreSQL, Docker, Kubernetes, AWS, Redis, and more. Skilled in working with cross-functional teams and utilizing agile methodologies to deliver high-quality software solutions.</p>
+<p align="left">👋 Hi, I’m Hüseyin
+I’m a senior engineer specializing in DevOps, backend architecture, and AI/ML systems. My work bridges scalable infrastructure, intelligent automation, and data-driven solutions.
 
-###
+Cloud & DevOps: Designing and optimizing resilient cloud environments (AWS), implementing CI/CD pipelines, and managing container orchestration with Kubernetes to ensure operational excellence.
 
-<h3 align="left">Language and tools</h3>
+Backend Development: Building and maintaining scalable backend services with frameworks like Django and NestJS, focusing on clean architecture, performance, and seamless integration across environments.
 
-###
+AI & Machine Learning: Developing and deploying models in natural language processing, computer vision, and recommendation systems, leveraging technologies such as YOLO, OpenAI, and vLLM to deliver tangible business impact.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+My goal is to create systems that are robust, scalable, and intelligent — translating complex requirements into reliable, production-ready solutions.
+
+Focused on delivering value through technology, automation, and strategic design.
+
+Feel free to explore my work and connect.</p>
 
 ###
