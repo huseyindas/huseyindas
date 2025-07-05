@@ -26,19 +26,19 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Hüseyin
-I’m a senior engineer specializing in DevOps, backend architecture, and AI/ML systems. My work bridges scalable infrastructure, intelligent automation, and data-driven solutions.
+## 👋 Hi, I’m Hüseyin
 
-Cloud & DevOps: Designing and optimizing resilient cloud environments (AWS), implementing CI/CD pipelines, and managing container orchestration with Kubernetes to ensure operational excellence.
+I’m a senior engineer specializing in **DevOps, backend architecture, and AI/ML systems**. My work bridges scalable infrastructure, intelligent automation, and data-driven solutions.
 
-Backend Development: Building and maintaining scalable backend services with frameworks like Django and NestJS, focusing on clean architecture, performance, and seamless integration across environments.
+- **Cloud & DevOps**: Designing and optimizing resilient cloud environments (AWS), implementing CI/CD pipelines, and managing container orchestration with Kubernetes to ensure operational excellence.
+- **Backend Development**: Building and maintaining scalable backend services with frameworks like Django and NestJS, focusing on clean architecture, performance, and seamless integration across environments.
+- **AI & Machine Learning**: Developing and deploying models in natural language processing, computer vision, and recommendation systems, leveraging technologies such as YOLO, OpenAI, and vLLM to deliver tangible business impact.
 
-AI & Machine Learning: Developing and deploying models in natural language processing, computer vision, and recommendation systems, leveraging technologies such as YOLO, OpenAI, and vLLM to deliver tangible business impact.
+My goal is to create systems that are **robust, scalable, and intelligent** — translating complex requirements into reliable, production-ready solutions.
 
-My goal is to create systems that are robust, scalable, and intelligent — translating complex requirements into reliable, production-ready solutions.
+> Focused on delivering value through technology, automation, and strategic design.
 
-Focused on delivering value through technology, automation, and strategic design.
+Feel free to explore my work and connect.
 
-Feel free to explore my work and connect.</p>
 
 ###
